@@ -1,0 +1,44 @@
+# Unity generated folders
+[Lưu ý: Dán nội dung này vào file text]
+
+[Lưu ý: Copy bắt đầu từ đây]
+[Lưu ý: Dán bắt đầu từ đây]
+
+[Lưu ý: Copy bắt đầu từ đây]
+
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.suo
+*.unityproj
+*.tmproj
+.DS_Store
+*.apk
+*.aab
+*.zip
+*.exe
+*.app
+
+# Crash logs
+*.stacktrace
+
+# Rider
+.idea/
+
+# VSCode
+.vscode/
+
+# JetBrains Rider
+*.sln.iml
